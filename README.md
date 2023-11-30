@@ -1,7 +1,7 @@
 
 # Welcome to my repository! 👋
 
-Thank you for visiting my repository! Today marks my 1-year anniversary on GitHub, making it a special occasion. 🎉
+Thank you for visiting my repository! 🎉
 
 ## About Me
 
