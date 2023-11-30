@@ -25,7 +25,7 @@ I'm a Cloud Engineer specializing in the Azure platform. My experience includes 
      The most highlighted Terraform projects on GitHub visualized with plotly.
 
 3. **Project C**
-   - Description of Project C.
+   - Description of Project:
 
 ## Contact
 
