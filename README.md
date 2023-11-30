@@ -16,11 +16,11 @@ I'm a Cloud Engineer specializing in the Azure platform. My experience includes 
 
 ## Projects
 
-1. **Project logapp**
+1. **Project [logapp](https://github.com/ArdianW/logapp)**
    - Description of Project:
      A Django application that enables users to track their progress by adding entries. Upon registration, each user gains exclusive access to their entries, allowing them to monitor, review, or edit their progress. The application is in Polish language.
 
-2. **Project terraform_github_apiterraform_github_api**
+2. **Project [terraform_github_apiterraform_github_api](https://github.com/ArdianW/terraform_github_api)**
    - Description of Project:
      The most highlighted Terraform projects on GitHub visualized with plotly.
 
