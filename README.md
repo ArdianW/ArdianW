@@ -24,8 +24,9 @@ I'm a Cloud Engineer specializing in the Azure platform. My experience includes 
    - Description of Project:
      The most highlighted Terraform projects on GitHub visualized with plotly.
 
-3. **Project C**
+3. **Project [Terraform_network_and_vm](https://github.com/ArdianW/Terraform_network_and_vm/tree/main)**
    - Description of Project:
+     Terraform project aims to create a Virtual Network with subnets and deploy a variable number of Virtual Linux machines, ranging from 1 to 99.
 
 ## Contact
 
