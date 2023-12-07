@@ -32,7 +32,7 @@ I'm a Cloud Engineer specializing in the Azure platform. My experience includes 
 
 Want to get in touch? Feel free to find me on:
 
-- LinkedIn: [Adrian Wręczycki](www.linkedin.com/in/adrian-wręczycki)
+- LinkedIn: [Adrian Wręczycki](https://www.linkedin.com/in/adrian-wr%C4%99czycki/)
 
 Excited to explore the world of technology together! Thank you for visiting my repository. 🚀
 
